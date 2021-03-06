@@ -1,0 +1,20 @@
+--- 
+title: "Hausa-NLP Meeting Notes"
+author: "Hausa-NLP Community"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a meeting notes for Hausa-NLP Community."
+---
+
+# Welcome 
+
+This document content meeting notes for Hausa-NLP(hausanlp.github.io) community. 
+
+We are an open source community with passion to promote Hausa natural language processing.
+
+To join us,visit our page [here](https://github.com/hausanlp) with details instruction on how to join and contribute 
+
