@@ -1,6 +1,9 @@
 book_filename: "meeting-notes"
 output_dir: "docs"
 delete_merged_file: true
-language:
-  ui:
-    chapter_name: "Chapter "
+output:
+  bookdown::html_document2: default
+  bookdown::pdf_document2:
+    keep_tex: true
+  bookdown::word_document2:
+    toc: true
