@@ -3,7 +3,7 @@
     "path": "~/Documents/Hausa-NLP-Github/meeting-notes/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "3031645678",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1615048029897.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,52",
+        "cursorPosition": "14,38",
         "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1615048161,
+    "lastKnownWriteTime": 1615050737,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1615048161178,
+    "last_content_update": 1615050737593,
     "read_only": false,
     "read_only_alternatives": []
 }

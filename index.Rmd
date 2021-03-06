@@ -12,5 +12,9 @@ description: "This is a meeting notes for Hausa-NLP Community."
 
 # Welcome 
 
-This is a document that contents our meeting notes. 
+This document content meeting notes for Hausa-NLP(hausanlp.github.io) community. 
+
+We are an open source community with passion to promote Hausa natural language processing.
+
+To join us,visit our page [here](https://github.com/hausanlp) with details instruction on how to join and contribute 
 
